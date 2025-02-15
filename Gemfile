@@ -63,4 +63,7 @@ group :test do
 
   # Default testing framework [https://github.com/rspec/rspec-rails/]
   gem "rspec-rails"
+
+  # Use to create objects for testing [https://github.com/thoughtbot/factory_bot_rails]
+  gem "factory_bot_rails"
 end
